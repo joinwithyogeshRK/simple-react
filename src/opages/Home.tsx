@@ -9,6 +9,7 @@ const Home = () => {
            window.gtag("event", "button_click", {
              event_category: "interaction",
              event_label: "found_page_button",
+             debug_mode: true,
            });
          }
 
