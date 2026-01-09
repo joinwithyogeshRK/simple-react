@@ -13,7 +13,7 @@ const Slash = () => {
         }
 
         // 2️⃣ Navigate
-        navigate("/dash");
+        navigate("/home");
       };
   return (
     <div>

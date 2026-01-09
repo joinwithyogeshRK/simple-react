@@ -13,7 +13,7 @@ const Home = () => {
          }
 
          // 2️⃣ Navigate
-         navigate("/dash");
+         navigate("/found");
        };
   return (
     <div>

@@ -13,7 +13,7 @@ const About = () => {
         }
 
         // 2️⃣ Navigate
-        navigate("/dash");
+        navigate("/");
       };
   return (
     <div>
